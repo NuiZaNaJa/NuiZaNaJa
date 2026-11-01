@@ -23,7 +23,7 @@
 ---
 
 <!-- 💫 About me -->
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" alt="coding" />
+<a href="https://timmy-portfolio-app.vercel.app/"><img align="right" src="assets/id-card.png" width="250" alt="Patcharapol Jamsawang — Robotic &amp; Electronic Engineer" /></a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
