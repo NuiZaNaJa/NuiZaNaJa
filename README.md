@@ -1,12 +1,8 @@
-<!-- 💬 Typing header -->
+<!-- 💬 Typing header (types once, then holds) -->
 <p align="center">
   <a href="https://github.com/NuiZaNaJa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=460&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%F0%9F%91%8B%2C+I'm+NuiZaNaJa;Python+%C2%B7+IoT+%C2%B7+AI%2FComputer+Vision;I+build+things+that+sense+the+real+world" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&color=27AE60&center=true&vCenter=true&width=620&height=70&duration=1200&pause=10000000000000&lines=Hello%20i%27m%20Patcharapol" alt="Hello i'm Patcharapol" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Python%20Developer;IoT%20%26%20Embedded%20Systems%20Engineer;AI%20%2F%20Computer%20Vision%20Enthusiast;Always%20Learning%20Something%20New&font=Shantell+Sans&size=20&center=true&vCenter=true&width=440&height=45&color=F75C7E&pause=1000" alt="Roles" />
 </p>
 
 <!-- 🌐 Social links -->
