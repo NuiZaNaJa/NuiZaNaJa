@@ -12,7 +12,7 @@
       <a href="https://github.com/NuiZaNaJa"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
     </td>
     <td align="center" width="80">
-      <a href="https://nuizanaja.github.io"><img src="https://skillicons.dev/icons?i=chrome" height="48" alt="Portfolio" /></a>
+      <a href="https://timmy-portfolio-app.vercel.app/"><img src="https://skillicons.dev/icons?i=chrome" height="48" alt="Portfolio" /></a>
     </td>
     <td align="center" width="80">
       <a href="https://github.com/NuiZaNaJa?tab=repositories"><img src="https://img.shields.io/badge/Repos-View-27AE60?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
